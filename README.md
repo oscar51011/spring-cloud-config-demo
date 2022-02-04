@@ -4,5 +4,5 @@
 
 啟動順序: 啟動 springclouddemo 中的 2個專案
 1. eureka-server ( 為一個 eureka server )
-2. cloud-config ( 為一個 eureka client )
+2. cloud-config ( 為一個 eureka client ) <br>
 -> cloud-config 的 application.yml 需要使用自己的 repository 建置 (置換 uri, username, password)
